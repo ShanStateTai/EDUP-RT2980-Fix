@@ -13,7 +13,7 @@ If you own an **EDUP RT2980 (MT7981 chip)** and can't get Packet Injection or De
 * If that doesn't work, hold **Reset + Mesh/WPS** together while plugging in power.
 * Set your PC's IP to `192.168.1.2` and open **`http://192.168.1.1`** in your browser. You should see the U-Boot WebUI.
 
-**2. Download the Firmware**
+**2. Download the Firmware**    https://firmware-selector.immortalwrt.org/
 * Download ImmortalWrt for the **CLT-R30B1** board (same board as RT2980) from the official ImmortalWrt website or GitHub. Look for `clt-r30b1-112m-squashfs-sysupgrade.bin` (for the 112M version).
 
 **3. Flash via U-Boot**
@@ -41,7 +41,7 @@ If you own an **EDUP RT2980 (MT7981 chip)** and can't get Packet Injection or De
 * ถ้าไม่ติด ให้ลองกด **Reset + Mesh/WPS** พร้อมกันแล้วเสียบไฟ
 * รอไฟสถานะกะพริบ แล้วตั้งค่า IP คอมพิวเตอร์เป็น `192.168.1.2` เปิดเบราว์เซอร์ไปที่ **`http://192.168.1.1`** จะเจอหน้า U-Boot WebUI
 
-**2. ดาวน์โหลดเฟิร์มแวร์**
+**2. ดาวน์โหลดเฟิร์มแวร์**  https://firmware-selector.immortalwrt.org/
 * โหลด ImmortalWrt สำหรับบอร์ด **CLT-R30B1** (บอร์ดเดียวกับ RT2980) จากเว็บไซต์ทางการของ ImmortalWrt หรือ GitHub (ค้นหา `clt-r30b1-112m-squashfs-sysupgrade.bin` สำหรับเวอร์ชัน 112M)
 
 **3. แฟลชผ่าน U-Boot**
