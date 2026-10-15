@@ -1,7 +1,4 @@
-# EDUP-RT2980-Fix
-English
-
-**Title: EDUP RT2980 Packet Injection Not Working? Flash ImmortalWrt & Fix It!**
+#EDUP RT2980 Packet Injection Not Working? Flash ImmortalWrt & Fix It!
 
 If you own an **EDUP RT2980 (MT7981 chip)** and can't get Packet Injection or Deauth attacks to work, don't blame the hardware! The issue is with the official OpenWrt firmware.
 
